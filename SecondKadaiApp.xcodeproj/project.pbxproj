@@ -13,6 +13,7 @@
 		DB36B99C2635C834009EA6C9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB36B99A2635C834009EA6C9 /* Main.storyboard */; };
 		DB36B99E2635C869009EA6C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB36B99D2635C869009EA6C9 /* Assets.xcassets */; };
 		DB36B9A12635C869009EA6C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB36B99F2635C869009EA6C9 /* LaunchScreen.storyboard */; };
+		DB36B9B12635CFB7009EA6C9 /* GreetingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB36B9B02635CFB7009EA6C9 /* GreetingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DB36B99D2635C869009EA6C9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB36B9A02635C869009EA6C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DB36B9A22635C869009EA6C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB36B9B02635CFB7009EA6C9 /* GreetingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreetingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DB36B9942635C834009EA6C9 /* AppDelegate.swift */,
 				DB36B9962635C834009EA6C9 /* SceneDelegate.swift */,
 				DB36B9982635C834009EA6C9 /* ViewController.swift */,
+				DB36B9B02635CFB7009EA6C9 /* GreetingViewController.swift */,
 				DB36B99A2635C834009EA6C9 /* Main.storyboard */,
 				DB36B99D2635C869009EA6C9 /* Assets.xcassets */,
 				DB36B99F2635C869009EA6C9 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 				DB36B9992635C834009EA6C9 /* ViewController.swift in Sources */,
 				DB36B9952635C834009EA6C9 /* AppDelegate.swift in Sources */,
 				DB36B9972635C834009EA6C9 /* SceneDelegate.swift in Sources */,
+				DB36B9B12635CFB7009EA6C9 /* GreetingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
